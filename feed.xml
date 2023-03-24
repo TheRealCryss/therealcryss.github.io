@@ -3,12 +3,43 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T10:57:15+01:00</updated>
+    <updated>2023-03-24T11:11:38+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
     <id>https://therealcryss.github.io</id>
 
+    <entry>
+        <title>Cryss&#x27; Defrosted Crops and Planters for Horizon 1.8</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/cryss-defrosted-crops-and-planters-for-horizon-18.html"/>
+        <id>https://therealcryss.github.io/cryss-defrosted-crops-and-planters-for-horizon-18.html</id>
+
+        <updated>2023-03-24T11:11:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    [unmaintained] To increase immersion when doing a Horizon winter playthrough and restrict myself to only grow crops in my greenhouses I was frustrated by the fact, that all crops I place are snow covered. So I made this patch. It is my second mod now&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg--highlight  msg--info msg msg--success msg--warning align-center"><strong><span style="color: #e03e2d;">[unmaintained]</span></strong></p>
+<p><span style="font-weight: 400;">To increase immersion when doing a Horizon winter playthrough and restrict myself to only grow crops in my greenhouses I was frustrated by the fact, that all crops I place are snow covered. So I made this patch. It is my second mod now and I hope everything is working for you.</span></p>
+<p><span style="font-weight: 400;">Please note:<br></span><span style="font-weight: 400;">As I'm still earning to use CK and Xedit I couldn't find a smarter way of "restoring" the non-snow textures for specific items by just excluding them from the overwriting snow texture mod (I'm using Fallout 4 Seasons) I made a subfolder with renamed vanilla textures and bgms that I selected for every <a href="https://www.nexusmods.com/fallout4/mods/17374" title="Fallout 4 Horizon Mod - Complete Overhaul" target="_blank" rel="noopener noreferrer">Horizon</a> specific item like the automatic planters.</span></p>
+<p><span style="font-weight: 400;">This is the first release and therefore there may be some inconsistencies or items that I have overlooked.</span></p>
+<p><span style="font-weight: 400;">Thanks to <a href="https://www.nexusmods.com/fallout4/users/30396610?tab=user+files" title="Greb's Nexus Mods site for Fallout 4 patches" target="_blank" rel="noopener noreferrer">Greb</a> for the critical bugfix that was in my first release (0.5). (I better double check what CK does in the future. Lesson learned!). Get version 1.0!</span></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220363-656980456.jpeg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220363-656980456-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220489-647249848.jpeg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220489-647249848-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219842-40248038.png" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219842-40248038-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219828-1048608022.png" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219828-1048608022-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cryss&#x27; Greenhouses</title>
         <author>
@@ -18,17 +49,17 @@
         <id>https://therealcryss.github.io/cryss-greenhouses.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" medium="image" />
 
-        <updated>2023-03-24T10:57:15+01:00</updated>
+        <updated>2023-03-24T11:00:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" alt="Large Greenhouse of the Fallout 4 mod Crysss Greenhouses with Horizon 1.8" />
-                    Three greenhouses, fully navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground. I didn't add any decoration so you have plenty of room to let your&hellip;
+                    Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground. I didn't add any decoration so you have plenty of room to let your&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" class="type:primaryImage" alt="Large Greenhouse of the Fallout 4 mod Crysss Greenhouses with Horizon 1.8" /></p>
-                <p><span style="font-weight: 400;">Three greenhouses, fully navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground.</span></p>
+                <p><span style="font-weight: 400;">Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground.</span></p>
 <p><span style="font-weight: 400;">I didn't add any decoration so you have plenty of room to let your inner architect run wild!</span></p>
 <p><span style="font-weight: 400;">This is my first mod and there may be bugs. Please report so I can fix it and learn from it.</span></p>
 <p><span style="font-weight: 400;">The Greenhouses can be found in Prefabs/Warehouses</span></p>
