@@ -9,19 +9,5 @@
         "name": "Cryss"
     },
     "items": [
-        {
-            "id": "https://therealcryss.github.io/home.html",
-            "url": "https://therealcryss.github.io/home.html",
-            "title": "Home",
-            "summary": "Hello visitor! This is my newly created github profile that is currently mainly used for work on Fallout 4 mods. Contact: therealcryssgaming@gmail.com Youtube: https://www.youtube.com/@therealcryss Discord: Greslin Games: https://discord.gg/jMUnXDV The MRC Shop: https://discord.gg/7HWdmXvaBP",
-            "content_html": "<p dir=\"auto\">Hello visitor!</p>\n<p dir=\"auto\">This is my newly created github profile that is currently mainly used for work on Fallout 4 mods.</p>\n<p dir=\"auto\">Contact: <a href=\"mailto:therealcryssgaming@gmail.com\">therealcryssgaming@gmail.com</a></p>\n<p dir=\"auto\">Youtube: <a href=\"https://www.youtube.com/@therealcryss\" rel=\"nofollow\">https://www.youtube.com/@therealcryss</a></p>\n<p dir=\"auto\">Discord: Greslin Games: <a href=\"https://discord.gg/jMUnXDV\" rel=\"nofollow\">https://discord.gg/jMUnXDV</a> The MRC Shop: <a href=\"https://discord.gg/7HWdmXvaBP\" rel=\"nofollow\">https://discord.gg/7HWdmXvaBP</a></p>",
-            "author": {
-                "name": "Cryss"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-24T09:04:48+01:00",
-            "date_modified": "2023-03-24T10:27:39+01:00"
-        }
     ]
 }
