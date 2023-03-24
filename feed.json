@@ -10,18 +10,6 @@
     },
     "items": [
         {
-            "id": "https://therealcryss.github.io/fallout-4-mods.html",
-            "url": "https://therealcryss.github.io/fallout-4-mods.html",
-            "title": "Fallout 4 Mods",
-            "author": {
-                "name": "Cryss"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-24T09:10:54+01:00",
-            "date_modified": "2023-03-24T09:10:54+01:00"
-        },
-        {
             "id": "https://therealcryss.github.io/home.html",
             "url": "https://therealcryss.github.io/home.html",
             "title": "Home",
@@ -33,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2023-03-24T09:04:48+01:00",
-            "date_modified": "2023-03-24T09:09:59+01:00"
+            "date_modified": "2023-03-24T10:27:39+01:00"
         }
     ]
 }
