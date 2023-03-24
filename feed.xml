@@ -3,10 +3,42 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-03-24T10:51:25+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
     <id>https://therealcryss.github.io</id>
 
+    <entry>
+        <title>Cryss&#x27; Greenhouses</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/cryss-greenhouses.html"/>
+        <id>https://therealcryss.github.io/cryss-greenhouses.html</id>
+
+        <updated>2023-03-24T10:51:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Three greenhouses, fully navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground. I didn't add any decoration so you have plenty of room to let your&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Three greenhouses, fully navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground.</span></p>
+<p><span style="font-weight: 400;">I didn't add any decoration so you have plenty of room to let your inner architect run wild!</span></p>
+<p><span style="font-weight: 400;">This is my first mod and there may be bugs. Please report so I can fix it and learn from it.</span></p>
+<p><span style="font-weight: 400;">The Greenhouses can be found in Prefabs/Warehouses</span></p>
+<p><span style="font-weight: 400;">Post your pictures and show us how you make use of them and have them decorated!</span></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578970-1427316233.png" data-size="1404x592"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578970-1427316233-thumbnail.png" alt="Cryss' Greenhouses - A Fallout 4 mod - Small and mediam Greenhouse" width="720" height="304"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578986-1449078674.png" data-size="3413x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578986-1449078674-thumbnail.png" alt="" width="720" height="304"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1604579005-174609754.png" data-size="3413x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1604579005-174609754-thumbnail.png" alt="" width="720" height="304"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1617907418-1897806100.jpeg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1617907418-1897806100-thumbnail.jpeg" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1617907498-1730890246.png" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1617907498-1730890246-thumbnail.png" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1617907541-311786443.jpeg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1617907541-311786443-thumbnail.jpeg" alt="" width="720" height="301"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
