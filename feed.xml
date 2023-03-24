@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T15:39:46+01:00</updated>
+    <updated>2023-03-24T15:57:49+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -51,10 +51,10 @@
         <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
 
-        <updated>2023-03-24T15:39:46+01:00</updated>
+        <updated>2023-03-24T15:57:49+01:00</updated>
             <summary>
                 <![CDATA[
-                    [Under development] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Apartments adds Current status: Todos: I havn't decided upon the lighting, yet.
+                    [Under development] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Apartments adds Fast Travel Point: coc CryssInteriorsApartments Current status: Todos: Where to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -63,11 +63,16 @@
 <p>What was the original idea for this mod? See this <a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer">journal entry</a>.<a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer"></a></p>
 <p>This mod is the first in my endavour to create my own collection of new interiors for Fallout 4.</p>
 <p><em>Apartments</em> adds</p>
+<p>Fast Travel Point:</p>
+<blockquote>
+<p>coc CryssInteriorsApartments</p>
+</blockquote>
 <p><span style="text-decoration: underline;">Current status:</span></p>
 <ul>
 <li>Staircase, 3 doors to the exterior (maybe put something on the balconies in future updates)</li>
 <li>A mini quest involving a cat</li>
 <li>A useable cooking station in one of the apartments</li>
+<li>A resident, somewhat</li>
 </ul>
 <p><span style="text-decoration: underline;">Todos:</span></p>
 <ul>
@@ -75,6 +80,12 @@
 <li>Open up more rooms and connect adjacent buildings</li>
 <li>Sewer access (possible FROST in mind)</li>
 </ul>
+<p><span style="text-decoration: underline;">Where to get:</span></p>
+<p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors-Apartments/tree/main" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
