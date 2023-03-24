@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Cryss&#x27; Gaming Repository</title>
+    <link href="https://therealcryss.github.io/feed.xml" rel="self" />
+    <link href="https://therealcryss.github.io" />
+    <updated>2023-03-24T09:10:54+01:00</updated>
+    <author>
+        <name>Cryss</name>
+    </author>
+    <id>https://therealcryss.github.io</id>
+
+    <entry>
+        <title>Fallout 4 Mods</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/fallout-4-mods.html"/>
+        <id>https://therealcryss.github.io/fallout-4-mods.html</id>
+
+        <updated>2023-03-24T09:10:54+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/home.html"/>
+        <id>https://therealcryss.github.io/home.html</id>
+
+        <updated>2023-03-24T09:09:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello visitor! This is my newly created github profile that is currently mainly used for work on Fallout 4 mods. Contact: therealcryssgaming@gmail.com Youtube: https://www.youtube.com/@therealcryss Discord: Greslin Games: https://discord.gg/jMUnXDV The MRC Shop: https://discord.gg/7HWdmXvaBP
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p dir="auto">Hello visitor!</p>
+<p dir="auto">This is my newly created github profile that is currently mainly used for work on Fallout 4 mods.</p>
+<p dir="auto">Contact: <a href="mailto:therealcryssgaming@gmail.com">therealcryssgaming@gmail.com</a></p>
+<p dir="auto">Youtube: <a href="https://www.youtube.com/@therealcryss" rel="nofollow">https://www.youtube.com/@therealcryss</a></p>
+<p dir="auto">Discord: Greslin Games: <a href="https://discord.gg/jMUnXDV" rel="nofollow">https://discord.gg/jMUnXDV</a> The MRC Shop: <a href="https://discord.gg/7HWdmXvaBP" rel="nofollow">https://discord.gg/7HWdmXvaBP</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

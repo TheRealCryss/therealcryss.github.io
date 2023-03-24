@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://therealcryss.github.io/sitemap.xml
