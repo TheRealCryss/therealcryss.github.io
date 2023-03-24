@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T14:23:57+01:00</updated>
+    <updated>2023-03-24T15:39:46+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -23,7 +23,7 @@
         <updated>2023-03-24T14:19:18+01:00</updated>
             <summary>
                 <![CDATA[
-                    During the last few month while playing FROST and Horizon I've always wondered what this or that building's story was and how nice&hellip;
+                    During the last few month while playing FROST and Horizon I've always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout during a rad storm. But how?&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -51,17 +51,30 @@
         <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
 
-        <updated>2023-03-24T13:17:15+01:00</updated>
+        <updated>2023-03-24T15:39:46+01:00</updated>
             <summary>
                 <![CDATA[
-                    [Under development] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to&hellip;
+                    [Under development] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Apartments adds Current status: Todos: I havn't decided upon the lighting, yet.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development]</span></p>
 <p>What was the original idea for this mod? See this <a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer">journal entry</a>.<a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer"></a></p>
-<p>This mod is the first in my endavour to create my own interiors for Fallout 4.</p>
+<p>This mod is the first in my endavour to create my own collection of new interiors for Fallout 4.</p>
+<p><em>Apartments</em> adds</p>
+<p><span style="text-decoration: underline;">Current status:</span></p>
+<ul>
+<li>Staircase, 3 doors to the exterior (maybe put something on the balconies in future updates)</li>
+<li>A mini quest involving a cat</li>
+<li>A useable cooking station in one of the apartments</li>
+</ul>
+<p><span style="text-decoration: underline;">Todos:</span></p>
+<ul>
+<li>I havn't decided upon the lighting, yet. Maye just some lights repairable with a spare battery</li>
+<li>Open up more rooms and connect adjacent buildings</li>
+<li>Sewer access (possible FROST in mind)</li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -78,7 +91,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/4/51642-1619220489-647249848.jpeg" alt="" />
-                    [unmaintained] To increase immersion when doing a Horizon winter playthrough and restrict myself to only grow crops in my greenhouses I was frustrated&hellip;
+                    [unmaintained] To increase immersion when doing a Horizon winter playthrough and restrict myself to only grow crops in my greenhouses I was frustrated by the fact, that all crops I place are snow covered. So I made this patch. It is my second mod now&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -111,7 +124,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" alt="Large Greenhouse of the Fallout 4 mod Crysss Greenhouses with Horizon 1.8" />
-                    [Stable] Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have&hellip;
+                    [Stable] Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground. I didn't add any decoration so you have plenty of room to let&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -161,7 +174,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/8/enb2023_3_10_21_35_52.jpg" alt="" />
-                    I've started to create a spreadsheet to give an overview of all the sites of the new Fallout 4: Horizon 1.9.x reclamation system.
+                    I've started to create a spreadsheet to give an overview of all the sites of the new Fallout 4: Horizon 1.9.x reclamation system. The list also contains all the requirements (resources and perk ranks) to unlock the different tiers. At the moment some are missing&hellip;
                 ]]>
             </summary>
         <content type="html">
