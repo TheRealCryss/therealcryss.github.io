@@ -3,12 +3,35 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T11:34:05+01:00</updated>
+    <updated>2023-03-24T11:56:23+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
     <id>https://therealcryss.github.io</id>
 
+    <entry>
+        <title>Cryss&#x27; Interiors - Appartments</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
+        <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
+
+        <updated>2023-03-24T11:56:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                    [Under development] Origins: During the last few month when playing FROST and Horizon I always wondered what this or that building's story was and how nice it would be to enter them and maybe one even offeres a little shelter and hideout during a rad&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development]</span></p>
+<p>Origins:</p>
+<p>During the last few month when playing FROST and Horizon I always wondered what this or that building's story was and how nice it would be to enter them and maybe one even offeres a little shelter and hideout during a rad storm and hoard loads of scrap, ammunition and other. But how?</p>
+<p>There wasn't any content there to be entered. It had to be build!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cryss&#x27; Defrosted Crops and Planters for Horizon 1.8</title>
         <author>
@@ -18,7 +41,7 @@
         <id>https://therealcryss.github.io/cryss-defrosted-crops-and-planters-for-horizon-18.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/4/51642-1619220489-647249848.jpeg" medium="image" />
 
-        <updated>2023-03-24T11:32:41+01:00</updated>
+        <updated>2023-03-24T11:55:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/4/51642-1619220489-647249848.jpeg" alt="" />
@@ -28,7 +51,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://therealcryss.github.io/media/posts/4/51642-1619220489-647249848.jpeg" class="type:primaryImage" alt="" /></p>
-                <p class="msg--highlight  msg--info msg msg--success msg--warning align-center"><strong><span style="color: #e03e2d;">[unmaintained]</span></strong></p>
+                <p class="msg--highlight  msg--info msg msg--success msg--warning align-center"><span style="color: #e03e2d;">[unmaintained]</span></p>
 <p><span style="font-weight: 400;">To increase immersion when doing a Horizon winter playthrough and restrict myself to only grow crops in my greenhouses I was frustrated by the fact, that all crops I place are snow covered. So I made this patch. It is my second mod now and I hope everything is working for you.</span></p>
 <p><span style="font-weight: 400;">Please note:<br></span><span style="font-weight: 400;">As I'm still earning to use CK and Xedit I couldn't find a smarter way of "restoring" the non-snow textures for specific items by just excluding them from the overwriting snow texture mod (I'm using Fallout 4 Seasons) I made a subfolder with renamed vanilla textures and bgms that I selected for every <a href="https://www.nexusmods.com/fallout4/mods/17374" title="Fallout 4 Horizon Mod - Complete Overhaul" target="_blank" rel="noopener noreferrer">Horizon</a> specific item like the automatic planters.</span></p>
 <p><span style="font-weight: 400;">This is the first release and therefore there may be some inconsistencies or items that I have overlooked.</span></p>
@@ -49,17 +72,18 @@
         <id>https://therealcryss.github.io/cryss-greenhouses.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" medium="image" />
 
-        <updated>2023-03-24T11:34:05+01:00</updated>
+        <updated>2023-03-24T11:55:38+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" alt="Large Greenhouse of the Fallout 4 mod Crysss Greenhouses with Horizon 1.8" />
-                    Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground. I didn't add any decoration so you have plenty of room to let your&hellip;
+                    [Stable] Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground. I didn't add any decoration so you have plenty of room to let&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" class="type:primaryImage" alt="Large Greenhouse of the Fallout 4 mod Crysss Greenhouses with Horizon 1.8" /></p>
-                <p><span style="font-weight: 400;">Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground.</span></p>
+                <p class="msg msg--success align-center"><span style="color: #2dc26b;">[Stable]</span></p>
+<p><span style="font-weight: 400;">Three greenhouses, all navmeshed (DLC required) (small, medium, large) I wanted to use with Horizon with a Winter playtrough. All three have a concret foundation for easier placement on unleveled ground.</span></p>
 <p><span style="font-weight: 400;">I didn't add any decoration so you have plenty of room to let your inner architect run wild!</span></p>
 <p><span style="font-weight: 400;">There havn't been any bug reports so I call this stable.</span></p>
 <p><span style="font-weight: 400;">The Greenhouses can be found in /Prefabs/Warehouses of the workshop menu.</span></p>
