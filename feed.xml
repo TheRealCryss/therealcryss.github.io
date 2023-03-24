@@ -3,12 +3,67 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T13:23:32+01:00</updated>
+    <updated>2023-03-24T13:37:10+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
     <id>https://therealcryss.github.io</id>
 
+    <entry>
+        <title>Prospector&#x27;s Guide to the Wastelands (PGW)</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/prospectors-guide-to-the-wastelands-pgw.html"/>
+        <id>https://therealcryss.github.io/prospectors-guide-to-the-wastelands-pgw.html</id>
+        <media:content url="https://therealcryss.github.io/media/posts/8/enb2023_3_10_21_35_52.jpg" medium="image" />
+            <category term="Survival Tools"/>
+            <category term="Journal Entry"/>
+            <category term="Fallout 4"/>
+            <category term="Documentation"/>
+
+        <updated>2023-03-24T13:37:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://therealcryss.github.io/media/posts/8/enb2023_3_10_21_35_52.jpg" alt="" />
+                    I've started to create a spreadsheet to give an overview of all the sites in the new Fallout 4: Horizon 1.9.x reclamation system. The list also contains all the requirements (resources and perk ranks) to unlock the different tiers. At the moment some are missing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://therealcryss.github.io/media/posts/8/enb2023_3_10_21_35_52.jpg" class="type:primaryImage" alt="" /></p>
+                <div data-tag="post-content-collapse">
+<div class="sc-jftFmt fjGVSk">
+<div>
+<div class="sc-gEOWYS kPqjfz sc-gwNMUz hKoCPI">
+<p>I've started to create a spreadsheet to give an overview of all the sites in the new Fallout 4: Horizon 1.9.x reclamation system.</p>
+<p>The list also contains all the requirements (resources and perk ranks) to unlock the different tiers.</p>
+<p>At the moment some are missing and I will add them in the near future given that at this moment Horizon 1.9 is still alpha and in bug fixing phase. After that Zaw might change the requirements of the different sites for balancing purpose.</p>
+<p>But it should give you an idea about the resources and perks needed before trying to unlock it.</p>
+<p>I've also added checkboxes for you, so you can use a copy of the list yourself.</p>
+<p>While I try to keep the list updated I can't guarantee it as I may take a break from Horizon or Fallout in general or do some other projects.</p>
+<p>The list will always be free of course and if you want to add some nice screenshots or missing numbers you want to report feel free to contact me.</p>
+<p> </p>
+<p>Prospector's Guide to the Wastelands (PGW):</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1nog9hw8JB3lVprp3YwPJIerMBO3vsZsL0VhQS6Wvu_o/edit?usp=sharing" rel="nofollow noopener" target="_blank">https://docs.google.com/spreadsheets/d/1nog9hw8JB3lVprp3YwPJIerMBO3vsZsL0VhQS6Wvu_o/edit?usp=sharing</a></p>
+<p>You can reach me at my little modding corner at the MCR:</p>
+<p><a href="https://discord.com/channels/860638206906728508/1080407936318312498" rel="nofollow noopener" target="_blank">https://discord.com/channels/860638206906728508/1080407936318312498</a></p>
+<p>Or at Gresling's Discord:</p>
+<p><a href="https://discord.com/channels/408380281209356299/606581678059814937/875546882590515230" rel="nofollow noopener" target="_blank">https://discord.com/channels/408380281209356299/606581678059814937/875546882590515230</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="sc-hiCibw gICusQ" data-tag="post-tags">
+<div class="sc-hiCibw iblTBC">
+<div class="sc-iJWMAS gAmLaG">
+<div class="sc-hiCibw bokvvd"> </div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Origins of Cryss&#x27; Interiors - Apartments</title>
         <author>

@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://therealcryss.github.io/prospectors-guide-to-the-wastelands-pgw.html",
+            "url": "https://therealcryss.github.io/prospectors-guide-to-the-wastelands-pgw.html",
+            "title": "Prospector&#x27;s Guide to the Wastelands (PGW)",
+            "summary": "I've started to create a spreadsheet to give an overview of all the sites in the new Fallout 4: Horizon 1.9.x reclamation system. The list also contains all the requirements (resources and perk ranks) to unlock the different tiers. At the moment some are missing&hellip;",
+            "content_html": "<div data-tag=\"post-content-collapse\">\n<div class=\"sc-jftFmt fjGVSk\">\n<div>\n<div class=\"sc-gEOWYS kPqjfz sc-gwNMUz hKoCPI\">\n<p>I've started to create a spreadsheet to give an overview of all the sites in the new Fallout 4: Horizon 1.9.x reclamation system.</p>\n<p>The list also contains all the requirements (resources and perk ranks) to unlock the different tiers.</p>\n<p>At the moment some are missing and I will add them in the near future given that at this moment Horizon 1.9 is still alpha and in bug fixing phase. After that Zaw might change the requirements of the different sites for balancing purpose.</p>\n<p>But it should give you an idea about the resources and perks needed before trying to unlock it.</p>\n<p>I've also added checkboxes for you, so you can use a copy of the list yourself.</p>\n<p>While I try to keep the list updated I can't guarantee it as I may take a break from Horizon or Fallout in general or do some other projects.</p>\n<p>The list will always be free of course and if you want to add some nice screenshots or missing numbers you want to report feel free to contact me.</p>\n<p> </p>\n<p>Prospector's Guide to the Wastelands (PGW):</p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1nog9hw8JB3lVprp3YwPJIerMBO3vsZsL0VhQS6Wvu_o/edit?usp=sharing\" rel=\"nofollow noopener\" target=\"_blank\">https://docs.google.com/spreadsheets/d/1nog9hw8JB3lVprp3YwPJIerMBO3vsZsL0VhQS6Wvu_o/edit?usp=sharing</a></p>\n<p>You can reach me at my little modding corner at the MCR:</p>\n<p><a href=\"https://discord.com/channels/860638206906728508/1080407936318312498\" rel=\"nofollow noopener\" target=\"_blank\">https://discord.com/channels/860638206906728508/1080407936318312498</a></p>\n<p>Or at Gresling's Discord:</p>\n<p><a href=\"https://discord.com/channels/408380281209356299/606581678059814937/875546882590515230\" rel=\"nofollow noopener\" target=\"_blank\">https://discord.com/channels/408380281209356299/606581678059814937/875546882590515230</a></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"sc-hiCibw gICusQ\" data-tag=\"post-tags\">\n<div class=\"sc-hiCibw iblTBC\">\n<div class=\"sc-iJWMAS gAmLaG\">\n<div class=\"sc-hiCibw bokvvd\"> </div>\n</div>\n</div>\n</div>",
+            "image": "https://therealcryss.github.io/media/posts/8/enb2023_3_10_21_35_52.jpg",
+            "author": {
+                "name": "Cryss"
+            },
+            "tags": [
+                   "Survival Tools",
+                   "Journal Entry",
+                   "Fallout 4",
+                   "Documentation"
+            ],
+            "date_published": "2023-03-24T13:34:37+01:00",
+            "date_modified": "2023-03-24T13:37:10+01:00"
+        },
+        {
             "id": "https://therealcryss.github.io/cryss-interiors-apartments.html",
             "url": "https://therealcryss.github.io/cryss-interiors-apartments.html",
             "title": "Origins of Cryss&#x27; Interiors - Apartments",
