@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T15:57:49+01:00</updated>
+    <updated>2023-03-24T16:32:32+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Journal Entry"/>
             <category term="Fallout 4"/>
 
-        <updated>2023-03-24T14:19:18+01:00</updated>
+        <updated>2023-03-24T16:32:14+01:00</updated>
             <summary>
                 <![CDATA[
                     During the last few month while playing FROST and Horizon I've always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout during a rad storm. But how?&hellip;
@@ -51,10 +51,10 @@
         <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
 
-        <updated>2023-03-24T15:57:49+01:00</updated>
+        <updated>2023-03-24T16:32:32+01:00</updated>
             <summary>
                 <![CDATA[
-                    [Under development] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Apartments adds Fast Travel Point: coc CryssInteriorsApartments Current status: Todos: Where to&hellip;
+                    [Under development] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Apartments adds Fast Travel Point: coc CryssInteriorsApartments Current status: Todos: Known Incompatibilities:&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -80,9 +80,19 @@
 <li>Open up more rooms and connect adjacent buildings</li>
 <li>Sewer access (possible FROST in mind)</li>
 </ul>
+<p><span style="text-decoration: underline;">Known Incompatibilities:</span></p>
+<ul>
+<li>Everything that adds another door to the building (feedback necessary)</li>
+</ul>
 <p><span style="text-decoration: underline;">Where to get:</span></p>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors-Apartments/tree/main" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
-<p> </p>
+<hr>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt1.jpg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt1-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt3.jpg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt3-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt2.jpg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt2-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/5/gallery/CryssIntAp.jpg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/5/gallery/CryssIntAp-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+</div></div>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -98,7 +108,7 @@
         <id>https://therealcryss.github.io/cryss-defrosted-crops-and-planters-for-horizon-18.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/4/51642-1619220489-647249848.jpeg" medium="image" />
 
-        <updated>2023-03-24T12:40:43+01:00</updated>
+        <updated>2023-03-24T16:31:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/4/51642-1619220489-647249848.jpeg" alt="" />
@@ -117,8 +127,19 @@
 <ul>
 <li>Horizon 1.8</li>
 </ul>
+<p><span style="text-decoration: underline;">Known Incompatibilities:</span></p>
+<ul>
+<li>none known/reported yet</li>
+</ul>
 <p><span style="text-decoration: underline;">Where to get:</span></p>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Defrosted-Crops-Planters" title="Cryss' Defrosted Crops and Planters for Fallout Horizon" target="_blank" rel="noopener noreferrer">Github</a></p>
+<hr>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220363-656980456.jpeg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220363-656980456-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220489-647249848-2.jpeg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619220489-647249848-2-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219828-1048608022.png" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219828-1048608022-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+<figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219842-40248038.png" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/4/gallery/51642-1619219842-40248038-thumbnail.webp" alt="" width="720" height="301"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -131,7 +152,7 @@
         <id>https://therealcryss.github.io/cryss-greenhouses.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" medium="image" />
 
-        <updated>2023-03-24T12:37:05+01:00</updated>
+        <updated>2023-03-24T16:31:59+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/3/48261-1617907541-311786443.jpeg" alt="Large Greenhouse of the Fallout 4 mod Crysss Greenhouses with Horizon 1.8" />
@@ -151,12 +172,13 @@
 <ul>
 <li>All DLC</li>
 </ul>
-<p><span style="text-decoration: underline;">Compatibility:</span></p>
+<p><span style="text-decoration: underline;">Known Incompatibilities:</span></p>
 <ul>
-<li>no incompatibility known/reported</li>
+<li>none known/reported yet</li>
 </ul>
 <p>Where to get it:</p>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Greenhouses" title="Cryss Greenhouses Fallout 4 mod download" target="_blank" rel="noopener noreferrer">Github</a></p>
+<hr>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578970-1427316233.png" data-size="1404x592"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578970-1427316233-thumbnail.webp" alt="Cryss' Greenhouses - A Fallout 4 mod - Small and mediam Greenhouse" width="720" height="304"></a></figure>
 <figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578986-1449078674.png" data-size="3413x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/3/gallery/48261-1604578986-1449078674-thumbnail.webp" alt="" width="720" height="304"></a></figure>
