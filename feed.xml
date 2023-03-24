@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-03-24T12:40:43+01:00</updated>
+    <updated>2023-03-24T12:51:57+01:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -16,8 +16,11 @@
         </author>
         <link href="https://therealcryss.github.io/cryss-interiors-apartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-apartments.html</id>
+            <category term="Mod"/>
+            <category term="Journal Entry"/>
+            <category term="Fallout 4"/>
 
-        <updated>2023-03-24T12:36:05+01:00</updated>
+        <updated>2023-03-24T12:51:57+01:00</updated>
             <summary>
                 <![CDATA[
                     Origins: During the last few month when playing FROST and Horizon I've always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout during a rad storm. But&hellip;
@@ -41,20 +44,18 @@
         <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
 
-        <updated>2023-03-24T12:04:32+01:00</updated>
+        <updated>2023-03-24T12:51:23+01:00</updated>
             <summary>
                 <![CDATA[
-                    [Under development] Origins: See this post: During the last few month when playing FROST and Horizon I always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout&hellip;
+                    [Under development] Origins: See this journaly entry.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development]</span></p>
 <p>Origins:</p>
-<p>See this post: </p>
-<p>During the last few month when playing FROST and Horizon I always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout during a rad storm.</p>
-<p>But how? There wasn't any content there to be entered. It had to be build!<br>So I did a field trip ingame while testing Horizon 1.9 alpha and looked for nice place to explore and took notes and pictures. A lot!</p>
-<p>While playing the Horizon 1.9 alpha there was a question</p>
+<p>See this <a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer">journaly entry</a>.<a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer"></a></p>
+<p> </p>
             ]]>
         </content>
     </entry>

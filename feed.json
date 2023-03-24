@@ -19,23 +19,26 @@
                 "name": "Cryss"
             },
             "tags": [
+                   "Mod",
+                   "Journal Entry",
+                   "Fallout 4"
             ],
             "date_published": "2023-03-24T12:12:08+01:00",
-            "date_modified": "2023-03-24T12:36:05+01:00"
+            "date_modified": "2023-03-24T12:51:57+01:00"
         },
         {
             "id": "https://therealcryss.github.io/cryss-interiors-appartments.html",
             "url": "https://therealcryss.github.io/cryss-interiors-appartments.html",
             "title": "Cryss&#x27; Interiors - Apartments",
-            "summary": "[Under development] Origins: See this post: During the last few month when playing FROST and Horizon I always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout&hellip;",
-            "content_html": "<p class=\"msg msg--highlight  align-center\"><span style=\"color: #f1c40f;\">[Under development]</span></p>\n<p>Origins:</p>\n<p>See this post: </p>\n<p>During the last few month when playing FROST and Horizon I always wondered what this or that building's story was and how nice it would be to enter them and if one even offered a little shelter and hideout during a rad storm.</p>\n<p>But how? There wasn't any content there to be entered. It had to be build!<br>So I did a field trip ingame while testing Horizon 1.9 alpha and looked for nice place to explore and took notes and pictures. A lot!</p>\n<p>While playing the Horizon 1.9 alpha there was a question</p>",
+            "summary": "[Under development] Origins: See this journaly entry.",
+            "content_html": "<p class=\"msg msg--highlight  align-center\"><span style=\"color: #f1c40f;\">[Under development]</span></p>\n<p>Origins:</p>\n<p>See this <a href=\"https://therealcryss.github.io/cryss-interiors-apartments.html\" target=\"_blank\" rel=\"noopener noreferrer\">journaly entry</a>.<a href=\"https://therealcryss.github.io/cryss-interiors-apartments.html\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p>\n<p> </p>",
             "author": {
                 "name": "Cryss"
             },
             "tags": [
             ],
             "date_published": "2023-03-24T11:47:05+01:00",
-            "date_modified": "2023-03-24T12:04:32+01:00"
+            "date_modified": "2023-03-24T12:51:23+01:00"
         },
         {
             "id": "https://therealcryss.github.io/cryss-defrosted-crops-and-planters-for-horizon-18.html",
