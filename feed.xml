@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-02T02:14:51+02:00</updated>
+    <updated>2023-04-02T16:15:05+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -55,15 +55,15 @@
         <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
 
-        <updated>2023-04-02T02:14:51+02:00</updated>
+        <updated>2023-04-02T16:15:05+02:00</updated>
             <summary>
                 <![CDATA[
-                    [Under development / v0.2.2-beta release] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Cryss Interiors contains te following new interior cells: Fast&hellip;
+                    [Under development / v0.2.3-beta release] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Cryss Interiors contains te following new interior cells: Fast&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development / v0.2.2-beta release]</span></p>
+                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development / v0.2.3-beta release]</span></p>
 <p>What was the original idea for this mod? See this <a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer">journal entry</a>.<a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer"></a></p>
 <p>This mod is the first in my endavour to create my own collection of new interiors for Fallout 4.</p>
 <p><em>Cryss Interiors</em> contains te following new interior cells:</p>
@@ -74,14 +74,14 @@
 <ul>
 <li>Staircase, 3 doors to the exterior (maybe put something on the balconies in future updates)</li>
 <li>A mini quest involving a cat</li>
-<li>A useable cooking station in one of the apartments</li>
+<li>A useable cooking station in one of the former apartments</li>
 <li>A resident, somewhat</li>
 </ul>
 <p><span style="text-decoration: underline;">Todo:</span></p>
 <ul>
 <li>I havn't decided upon the lighting, yet. Maye just some lights repairable with a spare battery</li>
 <li>Open up more rooms and connect adjacent buildings</li>
-<li>Sewer access (possible FROST in mind)</li>
+<li>Sewer access (FROST?)</li>
 </ul>
 <p><span style="text-decoration: underline;">Known Incompatibilities:</span></p>
 <ul>
@@ -94,6 +94,9 @@
 <ul>
 <li>Mostly finished</li>
 </ul>
+<h5><strong>Waystation Storeroom</strong></h5>
+<p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
+<p>coc CryssInteriorsWaystationStoreroom</p>
 <h3><span style="text-decoration: underline;">Where to get:</span></h3>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors-Apartments/tree/main" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
 <hr>
