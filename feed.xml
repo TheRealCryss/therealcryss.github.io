@@ -3,12 +3,37 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-02T16:15:05+02:00</updated>
+    <updated>2023-04-03T19:05:17+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
     <id>https://therealcryss.github.io</id>
 
+    <entry>
+        <title>Creation Kit - Solutions</title>
+        <author>
+            <name>Cryss</name>
+        </author>
+        <link href="https://therealcryss.github.io/creation-kit-solutions.html"/>
+        <id>https://therealcryss.github.io/creation-kit-solutions.html</id>
+
+        <updated>2023-04-03T19:05:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions.</p>
+<h5>Issues und Solutions</h5>
+<ol>
+<li><span style="text-decoration: underline;">I want light sources to be dark at night / enhance natural sky light / according to the time of day</span><br>Chiaro's Corner:  <a href="https://chiaroscorner.wordpress.com/2018/09/12/ck-day-night-emittance-from-windows/" target="_blank" rel="noopener noreferrer">Day/Night emittance from windows (CK)</a></li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Origins of Cryss&#x27; Interiors</title>
         <author>
@@ -55,10 +80,10 @@
         <link href="https://therealcryss.github.io/cryss-interiors-appartments.html"/>
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
 
-        <updated>2023-04-02T16:15:05+02:00</updated>
+        <updated>2023-04-02T16:18:55+02:00</updated>
             <summary>
                 <![CDATA[
-                    [Under development / v0.2.3-beta release] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Cryss Interiors contains te following new interior cells: Fast&hellip;
+                    [Under development / v0.2.3-beta release] What was the original idea for this mod? See this journal entry. This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Cryss Interiors contains the following new interior cells: Fast&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -66,7 +91,7 @@
                 <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development / v0.2.3-beta release]</span></p>
 <p>What was the original idea for this mod? See this <a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer">journal entry</a>.<a href="https://therealcryss.github.io/cryss-interiors-apartments.html" target="_blank" rel="noopener noreferrer"></a></p>
 <p>This mod is the first in my endavour to create my own collection of new interiors for Fallout 4.</p>
-<p><em>Cryss Interiors</em> contains te following new interior cells:</p>
+<p><em>Cryss Interiors</em> contains the following new interior cells:</p>
 <h5><strong>Apartments:</strong></h5>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssInteriorsApartments</p>
