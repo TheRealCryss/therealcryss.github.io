@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-05T17:11:06+02:00</updated>
+    <updated>2023-04-05T17:15:00+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -82,7 +82,7 @@
         <id>https://therealcryss.github.io/cryss-interiors.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/5/Photo286.png" medium="image" />
 
-        <updated>2023-04-05T17:11:06+02:00</updated>
+        <updated>2023-04-05T17:15:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/5/Photo286.png" alt="" />
@@ -116,6 +116,11 @@
 <p>coc CryssInteriorsLoft</p>
 <h3><span style="text-decoration: underline;">Where to get:</span></h3>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors/releases" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
+<h3><span style="text-decoration: underline;">Future Plans:</span></h3>
+<ul>
+<li class="align-left">Soundscape with custom sounds / gunfights in the distance</li>
+<li>Customized workbenches</li>
+</ul>
 <hr>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt1-2.jpg" data-size="3440x1440"><img loading="lazy" src="https://therealcryss.github.io/media/posts/5/gallery/CryssIntApExt1-2-thumbnail.webp" alt="" width="720" height="301"></a></figure>
