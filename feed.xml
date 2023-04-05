@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-04T22:53:17+02:00</updated>
+    <updated>2023-04-05T09:17:15+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -82,7 +82,7 @@
         <id>https://therealcryss.github.io/cryss-interiors-appartments.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/5/Photo286.png" medium="image" />
 
-        <updated>2023-04-04T11:01:59+02:00</updated>
+        <updated>2023-04-05T09:17:15+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/5/Photo286.png" alt="" />
@@ -98,34 +98,21 @@
 <p>Thanks to Terragon and Evelin for their helpful feedback and thourough testing.</p>
 <p><em>Cryss Interiors</em> contains the following new interior cells:</p>
 <h5><strong>Apartments:</strong></h5>
+<p>Close to vendor Slim</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssInteriorsApartments</p>
-<p><span style="text-decoration: underline;">Current status:</span></p>
-<ul>
-<li>Staircase, 3 doors to the exterior (maybe put something on the balconies in future updates)</li>
-<li>A mini quest involving a cat</li>
-<li>A useable cooking station in one of the former apartments</li>
-<li>A resident, somewhat</li>
-</ul>
-<p><span style="text-decoration: underline;">Todo:</span></p>
-<ul>
-<li>Open up more rooms and connect adjacent buildings</li>
-<li>Sewer access (FROST?)</li>
-</ul>
-<p><span style="text-decoration: underline;">Known Incompatibilities:</span></p>
-<ul>
-<li>Feedback necessary</li>
-</ul>
 <h5><strong>Concord Garage</strong></h5>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssInteriorsCGarage</p>
-<p><span style="text-decoration: underline;">Current status:</span></p>
-<ul>
-<li>Mostly finished</li>
-</ul>
 <h5><strong>Waystation Storeroom</strong></h5>
+<p>South of Boston when you follow the railway tracks</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssInteriorsWaystationStoreroom</p>
+<h5>In development:</h5>
+<h5><strong>Loft</strong></h5>
+<p>Near Goodneighbor/Mass Fusion building up some stairs</p>
+<p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
+<p>coc CryssInteriorsLoft</p>
 <h3><span style="text-decoration: underline;">Where to get:</span></h3>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors/releases" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
 <hr>
