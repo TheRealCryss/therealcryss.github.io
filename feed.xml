@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-09T01:31:22+02:00</updated>
+    <updated>2023-04-11T12:59:41+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -82,17 +82,17 @@
         <id>https://therealcryss.github.io/cryss-interiors.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/5/Photo286.png" medium="image" />
 
-        <updated>2023-04-09T01:31:22+02:00</updated>
+        <updated>2023-04-11T12:59:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/5/Photo286.png" alt="" />
-                    [Under development / v0.2.5-beta release] This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Thanks to all testers for their helpful feedback and thourough testing. Cryss Interiors contains the following new interior cells: Close to&hellip;
+                    [Under development / v0.2.6-beta release] This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Thanks to all testers for their helpful feedback and thourough testing. Cryss Interiors contains the following new interior cells: Close to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://therealcryss.github.io/media/posts/5/Photo286.png" class="type:primaryImage" alt="" /></p>
-                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development / v0.2.5-beta release]</span></p>
+                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development / v0.2.6-beta release]</span></p>
 <p>This mod is the first in my endavour to create my own collection of new interiors for Fallout 4.</p>
 <p>Thanks to all testers for their helpful feedback and thourough testing.</p>
 <p><em>Cryss Interiors</em> contains the following new interior cells:</p>
@@ -107,12 +107,15 @@
 <p>South of Boston when you follow the railway tracks</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssInteriorsWaystationStoreroom</p>
-<h5>In development:</h5>
 <h5><strong>Loft</strong></h5>
 <p>Near Goodneighbor/Mass Fusion building up some stairs</p>
-<p>Experimental feature of gunfight to simulate a soundscape. </p>
+<p>- Experimental feature of gunfight to simulate a soundscape. (Need more user feedback if it is even worth it)</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssInteriorsLoft</p>
+<h5><strong>Valenti Restaurant</strong></h5>
+<p>Directly above the station entry. For the time being I have put a door at the building on the left as a "service personnel entry". My plan is to integrate this door and possible staircases into the interior cells of the station itself, but I need to check further plans o the FROST developers if they have anything planned as I don't want to mess with their plans.</p>
+<p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
+<p>coc CryssInteriorsValentiRestaurant</p>
 <h3><span style="text-decoration: underline;">Where to get:</span></h3>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors/releases" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
 <h3><span style="text-decoration: underline;">Future Plans:</span></h3>
