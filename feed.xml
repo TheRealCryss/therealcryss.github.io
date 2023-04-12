@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-12T10:23:06+02:00</updated>
+    <updated>2023-04-12T10:55:24+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://therealcryss.github.io/creation-kit-solutions.html"/>
         <id>https://therealcryss.github.io/creation-kit-solutions.html</id>
 
-        <updated>2023-04-12T10:23:06+02:00</updated>
+        <updated>2023-04-12T10:55:24+02:00</updated>
             <summary>
                 <![CDATA[
-                    This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions.
+                    This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions. Ressources that helped me: - Greslin's YT channel: FO4Edit and Mod Reconciliation Basics
                 ]]>
             </summary>
         <content type="html">
@@ -32,6 +32,9 @@
 <li><span style="text-decoration: underline;">I want light sources to be dark at night / enhance natural sky light / according to the time of day</span><br>Chiaro's Corner:  <a href="https://chiaroscorner.wordpress.com/2018/09/12/ck-day-night-emittance-from-windows/" target="_blank" rel="noopener noreferrer">Day/Night emittance from windows (CK)</a></li>
 <li>Godrays drove me crazy. They just didn't show:<br>- If you put the lightsource (like DefauktLightWhite01SpotGR) to close to your window, you only get a glow effect. Put it a bit farther away.<br>- Reminder: You don't need a dustbox for godrays to show. GS are set on the lightsource</li>
 </ol>
+<p> </p>
+<p>Ressources that helped me:</p>
+<p>- Greslin's YT channel: <a href="https://www.youtube.com/watch?v=khJWk6EUGtU&amp;list=PLJp25sFDKjOAOV33RLpao9lPpuDJLk9vu" target="_blank" rel="noopener noreferrer">FO4Edit and Mod Reconciliation Basics</a></p>
 <p> </p>
             ]]>
         </content>
