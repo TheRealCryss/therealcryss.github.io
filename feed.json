@@ -15,14 +15,14 @@
             "url": "https://therealcryss.github.io/creation-kit-solutions.html",
             "title": "Creation Kit - Solutions",
             "summary": "This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions.",
-            "content_html": "<p>This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions.</p>\n<h5>Issues und Solutions</h5>\n<ol>\n<li><span style=\"text-decoration: underline;\">I want light sources to be dark at night / enhance natural sky light / according to the time of day</span><br>Chiaro's Corner:  <a href=\"https://chiaroscorner.wordpress.com/2018/09/12/ck-day-night-emittance-from-windows/\" target=\"_blank\" rel=\"noopener noreferrer\">Day/Night emittance from windows (CK)</a></li>\n<li>Godrays drove me crazy. They just didn't show:<br>- If you put the lightsource (like DefauktLightWhite01SpotGR) to close to your window, you only get a glow effect. Put it a bit farther away.<br>- Reminder: You don't need a dustbox for godrays to show. GS are set on the lightsource</li>\n<li>NEVER load master files into CK you don't want to be master files for your mod. If you just want to look at stuff, load these masters alone. Otherwise you may get dependancies under odd circumstances.</li>\n</ol>\n<p> </p>",
+            "content_html": "<p>This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions.</p>\n<h5>Issues und Solutions</h5>\n<ol>\n<li>NEVER load master files into CK you don't want to be master files for your mod. If you just want to look at stuff, load these masters alone. Otherwise you may get dependancies under odd circumstances.</li>\n<li><span style=\"text-decoration: underline;\">I want light sources to be dark at night / enhance natural sky light / according to the time of day</span><br>Chiaro's Corner:  <a href=\"https://chiaroscorner.wordpress.com/2018/09/12/ck-day-night-emittance-from-windows/\" target=\"_blank\" rel=\"noopener noreferrer\">Day/Night emittance from windows (CK)</a></li>\n<li>Godrays drove me crazy. They just didn't show:<br>- If you put the lightsource (like DefauktLightWhite01SpotGR) to close to your window, you only get a glow effect. Put it a bit farther away.<br>- Reminder: You don't need a dustbox for godrays to show. GS are set on the lightsource</li>\n</ol>\n<p> </p>",
             "author": {
                 "name": "Cryss"
             },
             "tags": [
             ],
             "date_published": "2023-04-03T14:34:00+02:00",
-            "date_modified": "2023-04-12T10:09:28+02:00"
+            "date_modified": "2023-04-12T10:23:06+02:00"
         },
         {
             "id": "https://therealcryss.github.io/cryss-interiors-apartments.html",
