@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-04-12T11:12:24+02:00</updated>
+    <updated>2023-04-14T09:55:58+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://therealcryss.github.io/creation-kit-solutions.html"/>
         <id>https://therealcryss.github.io/creation-kit-solutions.html</id>
 
-        <updated>2023-04-12T11:12:24+02:00</updated>
+        <updated>2023-04-14T09:55:28+02:00</updated>
             <summary>
                 <![CDATA[
                     This is a growing link list for me personally with issues I had to deal with while delving into Creation Kit's functions. Ressources that helped me:
@@ -30,7 +30,12 @@
 <ol>
 <li>NEVER load master files into CK you don't want to be master files for your mod. If you just want to look at stuff, load these masters alone. Otherwise you may get dependancies under odd circumstances.</li>
 <li><span style="text-decoration: underline;">I want light sources to be dark at night / enhance natural sky light / according to the time of day</span><br>Chiaro's Corner:  <a href="https://chiaroscorner.wordpress.com/2018/09/12/ck-day-night-emittance-from-windows/" target="_blank" rel="noopener noreferrer">Day/Night emittance from windows (CK)</a></li>
-<li>Godrays drove me crazy. They just didn't show:<br>- If you put the lightsource (like DefauktLightWhite01SpotGR) to close to your window, you only get a glow effect. Put it a bit farther away.<br>- Reminder: You don't need a dustbox for godrays to show. GS are set on the lightsource</li>
+<li>Godrays drove me crazy. They just didn't show:<br>- If you put the lightsource (like DefauktLightWhite01SpotGR) to close to your window, you only get a glow effect. Put it a bit farther away.<br>- Reminder: You don't need a dustbox for godrays to show. GS are set on the lightsource<br>- To get godrays right (In my case I want distinguisable section of light cut by the boarded-up window and also reach up to the opposite wall) play with the following variables: Distance to window, Intensity of the GR lightsource, Radius of the GR lightsource
+<div class="buttonContainer-1502pf">
+<div role="group" aria-label="Nachrichtenaktionen"> </div>
+<div class="buttons-3dF5Kd container-2gUZhU isHeader-2bbX-L" role="group" aria-label="Nachrichtenaktionen"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">It's a game of trial and error to get it right to your situation and what you want to achieve. Keep the radius at the size of just the window or you risk leaking even through solid walls</span></div>
+</div>
+</li>
 </ol>
 <p> </p>
 <p>Ressources that helped me:</p>
@@ -90,40 +95,40 @@
         <id>https://therealcryss.github.io/cryss-interiors.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/5/Photo286.png" medium="image" />
 
-        <updated>2023-04-11T12:59:41+02:00</updated>
+        <updated>2023-04-14T09:55:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/5/Photo286.png" alt="" />
-                    [Under development / v0.2.6-beta release] This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Thanks to all testers for their helpful feedback and thourough testing. Cryss Interiors contains the following new interior cells: Close to&hellip;
+                    [WIP / v0.2.7-beta] This mod is the first in my endavour to create my own collection of new interiors for Fallout 4. Thanks to all testers for their helpful feedback and thourough testing. Cryss Interiors contains the following new interior cells: Close to vendor Slim&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://therealcryss.github.io/media/posts/5/Photo286.png" class="type:primaryImage" alt="" /></p>
-                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[Under development / v0.2.6-beta release]</span></p>
+                <p class="msg msg--highlight  align-center"><span style="color: #f1c40f;">[WIP / v0.2.7-beta]</span></p>
 <p>This mod is the first in my endavour to create my own collection of new interiors for Fallout 4.</p>
 <p>Thanks to all testers for their helpful feedback and thourough testing.</p>
 <p><em>Cryss Interiors</em> contains the following new interior cells:</p>
 <h5><strong>Apartments:</strong></h5>
 <p>Close to vendor Slim / Mass Bay Medial Center</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
-<p>coc CryssInteriorsApartments</p>
+<p>coc CryssIntApart</p>
 <h5><strong>Concord Garage</strong></h5>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
-<p>coc CryssInteriorsCGarage</p>
+<p>coc CryssIntCGarage</p>
 <h5><strong>Waystation Storeroom</strong></h5>
 <p>South of Boston when you follow the railway tracks</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
-<p>coc CryssInteriorsWaystationStoreroom</p>
+<p>coc CryssIntWS</p>
 <h5><strong>Loft</strong></h5>
 <p>Near Goodneighbor/Mass Fusion building up some stairs</p>
 <p>- Experimental feature of gunfight to simulate a soundscape. (Need more user feedback if it is even worth it)</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
-<p>coc CryssInteriorsLoft</p>
+<p>coc CryssIntLoft</p>
 <h5><strong>Valenti Restaurant</strong></h5>
 <p>Directly above the station entry. For the time being I have put a door at the building on the left as a "service personnel entry". My plan is to integrate this door and possible staircases into the interior cells of the station itself, but I need to check further plans o the FROST developers if they have anything planned as I don't want to mess with their plans.</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
-<p>coc CryssInteriorsValentiRestaurant</p>
+<p>coc CryssIntVR</p>
 <h3><span style="text-decoration: underline;">Where to get:</span></h3>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors/releases" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
 <h3><span style="text-decoration: underline;">Future Plans:</span></h3>
