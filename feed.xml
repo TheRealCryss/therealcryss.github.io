@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-05-20T21:49:34+02:00</updated>
+    <updated>2023-05-20T22:06:53+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -20,29 +20,29 @@
             <category term="Localization"/>
             <category term="Fallout 4"/>
 
-        <updated>2023-05-20T21:49:34+02:00</updated>
+        <updated>2023-05-20T22:06:53+02:00</updated>
             <summary>
                 <![CDATA[
-                    [Stable 1.0 for Weather Report 1.042] Wetterbericht is the German localization for Weather Report, a Fallout 4 mod by Greslin. Description: See the Github page for more detailed information. Installation: Put the patch after the original Weather Report mod and you are fine. Requirements: Known&hellip;
+                    [Stable 1.0 for Weather Report 1.042] Wetterbericht is the German localization for Weather Report, a Fallout 4 mod by Greslin. Beschreibung: Für eine detailierte Beschreibung besuche bitte die Github-Seite. Installation: Platziere einfach den Patch nach dem Weather Report mod in deinem Mod-Manager (am besten MO2).
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--success align-center"><span style="color: #2dc26b;">[Stable 1.0 for <em>Weather Report</em> 1.042]</span></p>
 <p>Wetterbericht is the German localization for <em>Weather Report</em>, a Fallout 4 mod by Greslin.</p>
-<p><span style="text-decoration: underline;">Description:</span></p>
-<p>See the <a href="https://github.com/TheRealCryss/Fallout-4-DE-Patch-Wetterbericht/tree/main" target="_blank" rel="noopener noreferrer">Github</a> page for more detailed information.</p>
+<p><span style="text-decoration: underline;">Beschreibung:</span></p>
+<p>Für eine detailierte Beschreibung besuche bitte die <a href="https://github.com/TheRealCryss/Fallout-4-DE-Patch-Wetterbericht/tree/main" target="_blank" rel="noopener noreferrer">Github</a><a href="#INTERNAL_LINK#/post/null">-Seite</a>.</p>
 <p><span style="text-decoration: underline;">Installation:</span></p>
-<p dir="auto">Put the patch after the original <em>Weather Report </em>mod and you are fine.</p>
-<p><span style="text-decoration: underline;">Requirements:</span></p>
+<p dir="auto">Platziere einfach den Patch nach dem Weather Report mod in deinem Mod-Manager (am besten MO2).</p>
+<p><span style="text-decoration: underline;">Voraussetzungen:</span></p>
 <ul>
-<li>Weather Report<br>(mod by Greslin, see his <a href="https://discord.gg/jMUnXDV)" target="_blank" rel="noopener noreferrer">Discord</a> to get it)</li>
+<li>Weather Report<br>(Mod von Greslin. Das gibt es auf seinem <a href="https://discord.gg/jMUnXDV)" target="_blank" rel="noopener noreferrer">Discord</a>)</li>
 </ul>
-<p><span style="text-decoration: underline;">Known Incompatibilities:</span></p>
+<p><span style="text-decoration: underline;">Bekannte Inkompatibilitäten:</span></p>
 <ul>
-<li>none known/reported yet</li>
+<li>nichts bekannt</li>
 </ul>
-<p><span style="text-decoration: underline;">Where to get it:</span></p>
+<p><span style="text-decoration: underline;">Download:</span></p>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-DE-Patch-Wetterbericht/tree/main" target="_blank" rel="noopener noreferrer">Github</a></p>
             ]]>
         </content>
