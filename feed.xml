@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-05-23T19:52:03+02:00</updated>
+    <updated>2023-05-25T16:23:00+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -133,7 +133,7 @@
         <id>https://therealcryss.github.io/cryss-interiors.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/5/Photo524.jpeg" medium="image" />
 
-        <updated>2023-05-23T19:52:03+02:00</updated>
+        <updated>2023-05-25T16:23:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/5/Photo524.jpeg" alt="" />
@@ -167,6 +167,8 @@
 <p>Directly above the station entry. For the time being I have put a door at the building on the left as a "service personnel access". My plan is to integrate this door and possible staircases into the interior cells of the station itself, but I need to check further plans of the FROST developers if they have anything planned as I don't want to mess with their plans. Having the area accessed through the subway would be much more <em>immersive</em>.</p>
 <p><span style="text-decoration: underline;">Fast Travel Point:</span></p>
 <p>coc CryssIntVR</p>
+<h2 class="align-center">More interiors to come!</h2>
+<p> </p>
 <h3><span style="text-decoration: underline;">Where to get:</span></h3>
 <p><a href="https://github.com/TheRealCryss/Fallout-4-mods-Cryss-Interiors/releases" title="Github download link for Cryss Interiors Apartments Fallout mod" target="_blank" rel="noopener noreferrer">Github</a></p>
 <h3><span style="text-decoration: underline;">Future Plans:</span></h3>
