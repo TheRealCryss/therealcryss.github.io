@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://therealcryss.github.io/panpc-de-patch.html",
+            "url": "https://therealcryss.github.io/panpc-de-patch.html",
+            "title": "PANPC DE-PATCH",
+            "summary": "[Stable 1.0 for PANPC 2.0.12.1] Dies ist der deutsche Übersetzungspatch von PANPC, ein Fallout 4 AI-Mod von Greslin. Dieses wird für den Patch benötigt. Beschreibung: Für eine detailierte Beschreibung besuche bitte die Github-Seite. Installation: Platziere einfach den Patch nach dem PANPC-Mod in deinem Mod-Manager (am&hellip;",
+            "content_html": "<p class=\"msg msg--success align-center\"><span style=\"color: #2dc26b;\">[Stable 1.0 for <em>PANPC</em> 2.0.12.1]</span></p>\n<p>Dies ist der deutsche Übersetzungspatch von <i>PANPC,</i> ein Fallout 4 AI-Mod von Greslin. Dieses wird für den Patch benötigt.</p>\n<p><span style=\"text-decoration: underline;\">Beschreibung:</span></p>\n<p>Für eine detailierte Beschreibung besuche bitte die <a href=\"https://github.com/TheRealCryss/Fallout-4-DE-Patch-PANPC\" target=\"_blank\" rel=\"noopener noreferrer\">Github-Seite</a>.</p>\n<p><span style=\"text-decoration: underline;\">Installation:</span></p>\n<p dir=\"auto\">Platziere einfach den Patch nach dem PANPC-Mod in deinem Mod-Manager (am besten MO2).</p>\n<p><span style=\"text-decoration: underline;\">Voraussetzungen:</span></p>\n<ul>\n<li>PANPC 2.0.12.1<br>(Mod von Greslin. Das gibt es auf seinem <a href=\"https://discord.gg/jMUnXDV)\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a>)</li>\n</ul>\n<p><span style=\"text-decoration: underline;\">Bekannte Inkompatibilitäten:</span></p>\n<ul>\n<li>nichts bekannt</li>\n<li>FROST (Patch nötig für Holotapes)</li>\n</ul>\n<p><span style=\"text-decoration: underline;\">Download:</span></p>\n<p><a href=\"https://github.com/TheRealCryss/Fallout-4-DE-Patch-PANPC/releases\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></p>",
+            "author": {
+                "name": "Cryss"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-31T20:23:53+02:00",
+            "date_modified": "2023-05-31T20:28:36+02:00"
+        },
+        {
             "id": "https://therealcryss.github.io/wetterbericht.html",
             "url": "https://therealcryss.github.io/wetterbericht.html",
             "title": "Wetterbericht",
