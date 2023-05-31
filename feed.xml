@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-05-31T20:32:44+02:00</updated>
+    <updated>2023-05-31T20:35:08+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://therealcryss.github.io/panpc-de-patch.html</id>
         <media:content url="https://therealcryss.github.io/media/posts/11/PANPC-DE-PATCH-Fallout.jpg" medium="image" />
 
-        <updated>2023-05-31T20:32:44+02:00</updated>
+        <updated>2023-05-31T20:34:59+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://therealcryss.github.io/media/posts/11/PANPC-DE-PATCH-Fallout.jpg" alt="" />
@@ -36,7 +36,7 @@
 <p dir="auto">Platziere einfach den Patch nach dem PANPC-Mod in deinem Mod-Manager (am besten MO2).</p>
 <p><span style="text-decoration: underline;">Voraussetzungen:</span></p>
 <ul>
-<li>PANPC 2.0.12.1<br>(Mod von Greslin. Das gibt es auf seinem <a href="https://discord.gg/jMUnXDV)" target="_blank" rel="noopener noreferrer">Discord</a>)</li>
+<li>PANPC 2.0.12.1<br>(Mod von Greslin. Das gibt es auf seinem <a href="https://discord.gg/jMUnXDV" target="_blank" rel="noopener noreferrer">Discord</a>)</li>
 </ul>
 <p><span style="text-decoration: underline;">Bekannte Inkompatibilitäten:</span></p>
 <ul>
@@ -59,7 +59,7 @@
             <category term="Localization"/>
             <category term="Fallout 4"/>
 
-        <updated>2023-05-20T22:12:01+02:00</updated>
+        <updated>2023-05-31T20:35:08+02:00</updated>
             <summary>
                 <![CDATA[
                     [Stable 1.0 for Weather Report 1.042] Wetterbericht ist der deutsche Übersetzungspatch von Weather Report, ein Fallout 4 Mod von Greslin. Dieses wird benötigt. Beschreibung: Für eine detailierte Beschreibung besuche bitte die Github-Seite. Installation: Platziere einfach den Patch nach dem Weather Report mod in deinem Mod-Manager&hellip;
@@ -75,7 +75,7 @@
 <p dir="auto">Platziere einfach den Patch nach dem Weather Report mod in deinem Mod-Manager (am besten MO2).</p>
 <p><span style="text-decoration: underline;">Voraussetzungen:</span></p>
 <ul>
-<li>Weather Report<br>(Mod von Greslin. Das gibt es auf seinem <a href="https://discord.gg/jMUnXDV)" target="_blank" rel="noopener noreferrer">Discord</a>)</li>
+<li>Weather Report<br>(Mod von Greslin. Das gibt es auf seinem <a href="https://discord.gg/jMUnXDV" target="_blank" rel="noopener noreferrer">Discord</a>)</li>
 </ul>
 <p><span style="text-decoration: underline;">Bekannte Inkompatibilitäten:</span></p>
 <ul>
