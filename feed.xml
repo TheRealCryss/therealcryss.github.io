@@ -3,7 +3,7 @@
     <title>Cryss&#x27; Gaming Repository</title>
     <link href="https://therealcryss.github.io/feed.xml" rel="self" />
     <link href="https://therealcryss.github.io" />
-    <updated>2023-05-31T20:28:36+02:00</updated>
+    <updated>2023-05-31T20:32:44+02:00</updated>
     <author>
         <name>Cryss</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://therealcryss.github.io/panpc-de-patch.html"/>
         <id>https://therealcryss.github.io/panpc-de-patch.html</id>
+        <media:content url="https://therealcryss.github.io/media/posts/11/PANPC-DE-PATCH-Fallout.jpg" medium="image" />
 
-        <updated>2023-05-31T20:28:36+02:00</updated>
+        <updated>2023-05-31T20:32:44+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://therealcryss.github.io/media/posts/11/PANPC-DE-PATCH-Fallout.jpg" alt="" />
                     [Stable 1.0 for PANPC 2.0.12.1] Dies ist der deutsche Übersetzungspatch von PANPC, ein Fallout 4 AI-Mod von Greslin. Dieses wird für den Patch benötigt. Beschreibung: Für eine detailierte Beschreibung besuche bitte die Github-Seite. Installation: Platziere einfach den Patch nach dem PANPC-Mod in deinem Mod-Manager (am&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://therealcryss.github.io/media/posts/11/PANPC-DE-PATCH-Fallout.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--success align-center"><span style="color: #2dc26b;">[Stable 1.0 for <em>PANPC</em> 2.0.12.1]</span></p>
 <p>Dies ist der deutsche Übersetzungspatch von <i>PANPC,</i> ein Fallout 4 AI-Mod von Greslin. Dieses wird für den Patch benötigt.</p>
 <p><span style="text-decoration: underline;">Beschreibung:</span></p>
